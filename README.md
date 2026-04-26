@@ -4,9 +4,9 @@ UNMAPPED is a localizable skills-infrastructure MVP that turns informal experien
 
 ## Challenge Context
 
-Built for the World Bank Youth Summit x Hack-Nation "UNMAPPED" challenge. The primary demo user is Amara, a 22-year-old outside Accra, Ghana, with phone repair, accessories sales, customer service, basic coding, shared mobile access, and incomplete formal credentials.
+Built for the World Bank Youth Summit x Hack-Nation "UNMAPPED" challenge. The primary demo configuration is Ghana, focused on urban and peri-urban informal work such as repair, retail, customer service, and digital services.
 
-The second configuration is Bangladesh, represented by Ayesha, a rural/semi-rural youth profile around family farming, crop sales, mobile payments, basic machinery, and informal work.
+The second configuration is Bangladesh, focused on rural and semi-rural agricultural and informal work such as crop handling, farm-product sales, mobile payments, and basic machinery support.
 
 ## Three Modules
 
